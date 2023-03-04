@@ -779,7 +779,7 @@ def main():
                 caption=f"""
 ㅤ{dispatcher.bot.first_name} ɪs ᴀʟɪᴠᴇ ʙᴀʙʏ .....
 ━━━━━━━━━━━━━
-» **ᴏᴡɴᴇʀ :** [ᴀʟᴏɴᴇ](https://t.me/{OWNER_USERNAME})
+» **ᴏᴡɴᴇʀ :** [γτ√ 𝐓𝐇𝐄 𝐒𝐇𝐈𝐕 𝐎𝐅𝐅𝐈𝐂𝐈𝐀𝐋 💸>](https://t.me/{OWNER_USERNAME})
 » **ʟɪʙʀᴀʀʏ  :** `{so}`
 » **ᴛᴇʟᴇᴛʜᴏɴ :** `{am}`
 » **ᴘʏʀᴏɢʀᴀᴍ :** `{do}`
