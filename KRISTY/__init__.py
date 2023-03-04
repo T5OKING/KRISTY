@@ -40,7 +40,7 @@ logging.getLogger('ptbcontrib.postgres_persistence.postgrespersistence').setLeve
 LOGGER = logging.getLogger('[KRISTY]')
 LOGGER.info("KRISTY is starting. | ALONE Project Parts. | Licensed under GPLv3.")
 LOGGER.info("असिद्धतया स्वस्य दैवं जीवितुं श्रेयः, न तु परस्य जीवनस्य अनुकरणं सिद्धतया जीवितुं.")
-LOGGER.info("Project maintained by: github.com/ALTRON-XD (t.me/I_AM_PRO_KING)")
+LOGGER.info("Project maintained by: github.com/T5OKING (t.me/ll_TSO_KING_ll)")
 
 # if version < 3.9, stop bot.
 if sys.version_info[0] < 3 or sys.version_info[1] < 9:
