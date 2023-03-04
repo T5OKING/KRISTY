@@ -1,21 +1,21 @@
-![ᴋʀɪꜱᴛʏ](https://th.bing.com/th/id/OIP.hzsGP0ZSS9GpWcWaeDAQQgHaHa?pid=ImgDet&rs=1)
+![└𝐓𝐒𝐎⤥𝐌𝐀𝐍𝐀𝐆𝐄𝐑⤦𝐁𝐎𝐓┘](https://te.legra.ph/file/548328a198eefa046191d.jpg)
 # ᴜɴᴍᴀɪɴᴛᴀɪɴᴇᴅ
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=WELCOME+TO+KRISTY+AN+ADVANCE+BOT)](https://github.com/ALTRON-XD/KRISTY)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=WELCOME+TO+TSO+MANAGER+BOT+AN+ADVANCE+BOT)](https://github.com/ALTRON-XD/KRISTY)
 
 <p align="center">
-    ─「 sᴜᴩᴩᴏʀᴛ 」─
+    ─「 ᴜɴᴍᴀɪɴᴛᴀɪɴᴇᴅ 」─
 </p>
 
 </h3>
 <p align="center">
-<a href="https://telegram.me/TEAMXTRON"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://telegram.me/TSO_CHATS"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 <p align="center">
-<a href="https://telegram.me/TEAMX_TRON"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://telegram.me/TSO_UPDATES"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
-### ᴄᴀɴ ʙᴇ ꜰᴏᴜɴᴅ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀꜱ [ᴋʀɪꜱᴛʏ](https://t.me/miss_kristy_bot).
+### ᴄᴀɴ ʙᴇ ꜰᴏᴜɴᴅ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀꜱ TSO MANAGER BOT](https://t.me/TSO_MANAGER_BOT).
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -25,7 +25,7 @@
 ─「 ᴄʀᴇᴅɪᴛꜱ 」─ 
 
 
-ᴛʜᴀɴᴋꜱ ᴛᴏ ᴀʟʟ ᴛʜᴇ [ᴅᴇᴠꜱ](https://t.me/TEAMX_TRON/16) ᴛᴏ ɢɪᴠᴇ ᴛʜᴇɪʀ ɪᴍᴘᴏʀᴛᴀɴᴛ ᴛɪᴍᴇ ᴛᴏ [ᴋʀɪꜱᴛʏ](https://t.me/MISS_KRISTY_BOT)
+ᴛʜᴀɴᴋꜱ ᴛᴏ ᴀʟʟ ᴛʜᴇ [ᴅᴇᴠꜱ](https://t.me/ll_TSO_KING_ll) ᴛᴏ ɢɪᴠᴇ ᴛʜᴇɪʀ ɪᴍᴘᴏʀᴛᴀɴᴛ ᴛɪᴍᴇ ᴛᴏ [TSO MANAGER BOT](https://t.me/TSO_MANAGER_BOT)
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
