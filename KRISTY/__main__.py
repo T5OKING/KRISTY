@@ -87,7 +87,7 @@ def get_readable_time(seconds: int) -> str:
 
     return ping_time
 
-DONATION_LINK = "https://t.me/I_AM_PRO_KING"
+DONATION_LINK = "https://t.me/ll_TSO_KING_ll"
 
 start_txt = """
 ʜᴇʏ🥀 `{}`, ʜᴏᴡ ᴀʀᴇ ʏᴏᴜ!!
@@ -424,15 +424,14 @@ def KRISTY_about_callback(update, context):
     query = update.callback_query
     if query.data == "KRISTY_":
         query.message.edit_text(
-            text=f"๏ I'm [{BOT_NAME}](https://t.me/Miss_Kristy_bot), ᴀ ᴘᴏᴡᴇʀꜰᴜʟ ɢʀᴏᴜᴘ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ ʙᴏᴛ ʙᴜɪʟᴛ ᴛᴏ ʜᴇʟᴘ ʏᴏᴜ ᴍᴀɴᴀɢᴇ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴇᴀꜱɪʟʏ."
+            text=f"๏ I'm [{BOT_NAME}](https://t.me/TSO_MANAGER_BOT), ᴀ ᴘᴏᴡᴇʀꜰᴜʟ ɢʀᴏᴜᴘ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ ʙᴏᴛ ʙᴜɪʟᴛ ᴛᴏ ʜᴇʟᴘ ʏᴏᴜ ᴍᴀɴᴀɢᴇ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴇᴀꜱɪʟʏ."
             "\n» ɪ ᴄᴀɴ ʀᴇꜱᴛʀɪᴄᴛ ᴜꜱᴇʀꜱ."
             "\n» ɪ ᴀᴍ ʙᴜɪʟᴛ ᴡɪᴛʜ [ᴘʏᴛʜᴏɴ](https://www.python.org/) ,[ᴍᴏɴɢᴏᴅʙ](https://www.mongodb.com/)."
             "\n» ᴍʏ ʙᴀꜱᴇ ɪꜱ ᴍᴀᴅᴇ ᴜᴘ ᴏꜰ [ᴛᴇʟᴇᴛʜᴏɴ](https://github.com/LonamiWebs/Telethon) ᴀɴᴅ [ᴘʏʀᴏɢʀᴀᴍ](https://github.com/pyrogram/pyrogram)."
             "\n» ɪ ʜᴀᴠᴇ ᴀɴ ᴀᴅᴠᴀɴᴄᴇᴅ ᴀɴᴛɪ-ꜰʟᴏᴏᴅ ꜱʏꜱᴛᴇᴍ."
             "\n» ɪ ʜᴀᴠᴇ ɴꜱᴡꜰ ᴛᴏ ᴅᴇᴛᴇᴄᴛ ᴀᴅᴜʟᴛ ᴄᴏɴᴛᴇɴᴛꜱ ᴀɴᴅ ᴛᴏ ᴘʀᴏᴛᴇᴄᴛ ᴛʜᴇ ɢʀᴏᴜᴘ ꜰʀᴏᴍ ᴘᴏʀɴᴏɢʀᴀᴘʜɪᴄ ᴄᴏɴᴛᴇɴᴛꜱ."
             "\n» ɪ ᴄᴀɴ ᴘʀᴏᴛᴇᴄᴛ ʏᴏᴜʀ ɢʀᴏᴜᴘ ꜰʀᴏᴍ ꜱᴘᴀᴍꜱ ᴀɴᴅ ʀᴀɪᴅꜱ."
-            "\n» ɪ ʜᴀᴠᴇ ᴍᴀɴʏ ᴛᴏᴏʟꜱ ꜰᴏʀ ꜰᴜɴ ᴀɴᴅ ᴇɴᴊᴏʏᴍᴇɴᴛ ᴛᴏ ᴇɴᴛᴇʀᴛᴀɪɴ ʏᴏᴜ ᴀʟʟ"
-            "\n» ɪ ᴀᴍ ᴘᴜʙʟɪꜱʜᴇᴅ ᴜɴᴅᴇʀ ʟɪᴄᴇɴꜱᴇ :- [ɢɴᴜ ʟɪᴄᴇɴꜱᴇ](https://github.com/TEAM-XTRON/KRISTY/blob/main/LICENSE)"
+            "\n» 
             "\n\n 𝗧𝗛𝗔𝗡𝗞𝗦 𝗙𝗢𝗥 𝗦𝗨𝗣𝗣𝗢𝗥𝗧𝗜𝗡𝗚 𝗨𝗦",
             parse_mode=ParseMode.MARKDOWN,
             disable_web_page_preview=True,
@@ -440,10 +439,10 @@ def KRISTY_about_callback(update, context):
                 [
                  [
         InlineKeyboardButton(text="ᴏᴡɴᴇʀ", url=f"https://t.me/{OWNER_USERNAME}"),
-        InlineKeyboardButton(text="ᴅᴇᴠᴇʟᴏᴘᴇʀ", url=f"https://t.me/i_am_pro_king"),
+        InlineKeyboardButton(text="ᴅᴇᴠᴇʟᴏᴘᴇʀ", url=f"https://t.me/ll_TSO_KING_ll"),
                  ],
                  [
-        InlineKeyboardButton(text="ꜱᴏᴜʀᴄᴇ", url=f"https://github.com/TEAM-XTRON/KRISTY"),
+        InlineKeyboardButton(text="ꜱᴏᴜʀᴄᴇ", url=f"https://te.legra.ph/file/87669dc5f87f29988ed40.mp4"),
                  ],
                  [
                     InlineKeyboardButton(text="◁", callback_data="KRISTY_back"),
@@ -727,7 +726,7 @@ def donate(update: Update, context: CallbackContext):
             DONATE_STRING, parse_mode=ParseMode.MARKDOWN, disable_web_page_preview=True
         )
 
-        if OWNER_ID != 1820525265:
+        if OWNER_ID != 5686536025:
             update.effective_message.reply_text(
                 "ɪ'ᴍ ꜰʀᴇᴇ ꜰᴏʀ ᴇᴠᴇʀʏᴏɴᴇ 🖤 ɪꜰ ʏᴏᴜ ᴡᴀɴɴᴀ ᴍᴀᴋᴇ ᴍᴇ ꜱᴍɪʟᴇ, ᴊᴜꜱᴛ ᴊᴏɪɴ"
                 "[My Channel]({})".format(DONATION_LINK),
@@ -788,7 +787,7 @@ def main():
 » **ꜱQʟᴀʟᴄʜᴇᴍʏ :** `1.4.31`
 ━━━━━━━━━━━━━
 
-⍟ ᴘᴏᴡᴇʀᴇᴅ ʙʏ : [𝙆𝙍𝙄𝙎𝙏𝙔](https://t.me/TEAMXTRON)
+⍟ ᴘᴏᴡᴇʀᴇᴅ ʙʏ : [└𝐓𝐒𝐎⤥𝐌𝐀𝐍𝐀𝐆𝐄𝐑⤦𝐁𝐎𝐓┘](https://t.me/tso_chats)
 
 """,
                 parse_mode=ParseMode.MARKDOWN,
