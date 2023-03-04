@@ -36,17 +36,17 @@
       "API_ID": {
          "description": "Get API_ID from my.telegram.org, used for telethon based modules.",
          "required": true,
-         "value": ""
+         "value": "16201672"
       },
       "API_HASH": {
          "description": "Get API_HASH from my.telegram.org, used for telethon based modules.",
          "required": true,
-         "value": ""
+         "value": "55f85061314c2c0f6edeec9751b90913"
       },    
       "OWNER_ID": {
          "description": "Your user ID as an integer.",
          "required": true,
-         "value": "1820525265"
+         "value": "5686536025"
       },
       "STRING_SESSION": {
          "description": "Fill with telethon string session get it form https://replit.com/@MISSKRISTY/MISS-KRISTY.",
@@ -63,29 +63,29 @@
       },
       "JOIN_LOGGER": {
          "description": "Enter the Heroku app name here (Must an exact same name with your input above).",
-         "value": ""
+         "value": "-1001849373188"
       },
       "EVENT_LOGS": {
          "description": "Enter the Heroku app name here (Must an exact same name with your input above).",
-         "value": ""
+         "value": "-1001849373188"
       },  
       "BOT_USERNAME": {
          "description": "username of your bot without the @",
-         "value": "miss_kristy_bot"
+         "value": "@TSO_MANAGER_BOT"
       },
       "OWNER_USERNAME": {
          "description": "Your username without the @",
-         "value": "I_AM_PRO_KING"
+         "value": "@ll_TSO_KING_ll"
       },
       "SUPPORT_CHAT": {
          "description": "Your Telegram support group chat username where your users will go and bother you with shit But be like: MyGroupChatUsernameBlah. If this ever points to masha support than consider you made an enemy.",
          "required": true,
-         "value": "TEAMXTRON"
+         "value": "TSO_CHATS"
       },
       "UPDATES_CHANNEL": {
          "description": "Your Telegram update channel chat username where your users will go and bother you with shit But be like: MyGroupChatUsernameBlah. If this ever points to masha support than consider you made an enemy.",
          "required": true,
-         "value": "TEAMX_TRON"
+         "value": "TSO_UPDATES"
       },         
       "MONGO_DB_URI": {
          "description": "Required for database connections.",
@@ -105,7 +105,7 @@
       "DEV_USERS": {
          "description": "ID of users who are Devs of your bot (can use /py etc.). If you are a noob and would come and bother Masha support then keep the current ID's here at they are and add yours.",
          "required": false,
-         "value": "1820525265"
+         "value": "5686536025"
       },
       "ERROR_LOG": {
          "description": "ID of log for show error.",
@@ -128,22 +128,22 @@
       "DRAGONS": {
          "description": "A space separated list of user IDs who you want to assign as sudo users.",
          "required": false,
-         "value": "1820525265"
+         "value": "5686536025"
       },
       "DEMONS": {
          "description": "A space separated list of user IDs who you wanna assign as support users(gban perms only).",
          "required": false,
-         "value": "1820525265"
+         "value": "5686536025"
       },
       "TIGERS": {
          "description": "A space separated list of user IDs who you wanna assign as tiger users.",
          "required": false,
-         "value": "1820525265"
+         "value": "5686536025"
       },
       "WOLVES": {
          "description": "A space separated list of user IDs who you want to assign as whitelisted - can't be banned with your bot.",
          "required": false,
-         "value": "1820525265"
+         "value": "5686536025"
       },
       "ENV": {
          "description": "Setting this to ANYTHING will enable environment variables. Leave it as it is",
@@ -176,7 +176,7 @@
       "START_IMG": {
          "description": "your favourate image",
          "required": false,
-         "value": "https://telegra.ph/file/0e4c8b774f519561e4c40.jpg"
+         "value": "https://te.legra.ph/file/548328a198eefa046191d.jpg"
       },
         "START_STICKER": {
          "description": "Sticker that display on /start command",
